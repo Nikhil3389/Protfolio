@@ -16,7 +16,7 @@ import { GetServerSidePropsContext,GetStaticPropsContext,
       intial= "initial " 
        animate = "animate"
         className='flex flex-col flex-grow px-6 pt-1'>
-        <h5 className='my-3 font-medium'>I am currently pursuing Bachelor of Technology  Degree(Second Year) in Computer Science Engineering from Lovely Professional University, Punjab. I am good at mathematics and problem-solving. Languages are known by me: Java, C, C++. | Coordinator @Developer Students Club-LPU | 5 stars in Python, 5 stars in C++ and 3 stars in C on HackerRank </h5>
+        <h5 className='my-3 font-medium'>I am currently pursuing Bachelor of Technology  Degree(Third Year) in Computer Science Engineering from Lovely Professional University, Punjab. I am good at mathematics and problem-solving. Languages are known by me: Java, C, C++ and Python . | Competitive Programmer | | Ethical Hacker | | Full Stack Developer | | div 3 Codeshef 150+| | Leetcode 50+| | GFG 200+ | | Level 5 @ Coding Ninja | | 5⭐C++, Python @Hacker Rank | | Member @ShappireLPU </h5>
      
       <div className='flex-grow p-4 mt-5 bg-gray-400 dark:bg-dark-100'
       style={{marginLeft:'-1.5rem', marginRight: '-1.5rem' }}>
