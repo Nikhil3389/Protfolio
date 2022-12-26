@@ -23,7 +23,7 @@ const resume = () => {
     return (
       <motion.div 
       variants={ routeAnimation}
-      intial= "initial " 
+      initial= "initial " 
        animate = "animate"
       className='px-4 py-2'>
         <div className="grid gap-6 md:grid-cols-2">
